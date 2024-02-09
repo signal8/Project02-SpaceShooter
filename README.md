@@ -9,7 +9,7 @@ A space-shooter game in the vain of many arcade classics (Big inspos being Thund
 Created in Unity 2022.3.17f1
 
 ## Installation
-Clone this repository, and head to the Build/SI3 directory. A windows executable should be present.
+Download SI3.7z and extract it. If you can't open the file, try using 7-Zip (https://7zip.org). Open up SpaceShooter.exe, and enjoy!
 
 ## References
 https://andrewmushel.com/articles/looping-music-in-unity/ - Custom Loop Point Script that was very helpful.
