@@ -8,9 +8,14 @@ A space-shooter game in the vain of many arcade classics (Big inspos being Thund
 ## Implementation
 Created in Unity 2022.3.17f1
 
+## Installation
+Clone this repository, and head to the Build/SI3 directory. A windows executable should be present.
+
 ## References
 https://andrewmushel.com/articles/looping-music-in-unity/ - Custom Loop Point Script that was very helpful.
+
 https://opengameart.org/content/atari-booms - Nice retro explosion sounds.
+
 Everything else in this demo was handmade.
 
 ## Future Development
